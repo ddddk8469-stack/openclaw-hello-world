@@ -2,7 +2,7 @@
 
 A simple static page showcasing OpenClaw capabilities.
 
-🦞 **Live Demo**: https://suct.github.io/openclaw-hello-world
+🦞 **Live Demo**: https://ddddk8469-stack.github.io/openclaw-hello-world/
 
 ## Features
 
